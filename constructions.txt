@@ -1,0 +1,23 @@
+https://flowbite.com/docs/getting-started/quickstart/
+
+https://tailwindcss.com/docs
+
+https://flowbite.com/docs/components/alerts
+
+https://flowbite.com/docs/components/buttons
+
+https://flowbite.com/docs/components/carousel
+
+https://flowbite.com/docs/components/dropdowns
+
+https://flowbite.com/docs/components/forms
+
+https://flowbite.com/docs/components/footers
+
+https://flowbite.com/docs/components/modals
+
+-------------Include via CDN
+
+<link href="https://cdn.jsdelivr.net/npm/flowbite@2.5.2/dist/flowbite.min.css" rel="stylesheet" />
+
+<script src="https://cdn.jsdelivr.net/npm/flowbite@2.5.2/dist/flowbite.min.js"></script>
